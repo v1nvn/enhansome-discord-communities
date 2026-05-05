@@ -97,7 +97,7 @@ A curated list of awesome Discord communities for developers, game engineers, ha
 
 ## How to Navigate
 
-If you're familiar with other popular [awesome lists](https://github.com/sindresorhus/awesome/blob/main/readme.md) ⭐ 462,163 | 🐛 73 | 📅 2026-05-03, you may find this list a little anomalous. For starters take a look at the available [badges](origin/badges.md). `Notable channels` are exploratory, and can be used for looking up a particular topic. A community may offer channels dedicated to more than one spoken languages that `Language` is there for. You can start contributing from [here](origin/CONTRIBUTING.md). Read this [FAQ](origin/FAQ.md#what-about-discords-poor-privacy-policy) about Discord's **privacy policy** and answers to other frequent questions.
+If you're familiar with other popular [awesome lists](https://github.com/sindresorhus/awesome/blob/main/readme.md) ⭐ 462,610 | 🐛 71 | 📅 2026-05-03, you may find this list a little anomalous. For starters take a look at the available [badges](origin/badges.md). `Notable channels` are exploratory, and can be used for looking up a particular topic. A community may offer channels dedicated to more than one spoken languages that `Language` is there for. You can start contributing from [here](origin/CONTRIBUTING.md). Read this [FAQ](origin/FAQ.md#what-about-discords-poor-privacy-policy) about Discord's **privacy policy** and answers to other frequent questions.
 
 * A quick lookup from browser `ctrl + f` may help to find communities by a topic
 * Click on the [<img height="18px" width="18px" alt="Homepage URL" src="images/badges/homepage.webp">](#) or [<img height="18px" width="18px" alt="Git Repository" src="images/badges/git.webp">](#) icon to visit the community's official website or git repository page
@@ -192,7 +192,7 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/kilonova.webp">
 
-[**Kilonova**](https://discord.com/invite/Qa6Ytgh) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](origin/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://kilonova.ro/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/KiloProjects/Kilonova) ⭐ 47 | 🐛 57 | 🌐 Go | 📅 2026-04-20 \
+[**Kilonova**](https://discord.com/invite/Qa6Ytgh) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](origin/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://kilonova.ro/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/KiloProjects/Kilonova) ⭐ 48 | 🐛 57 | 🌐 Go | 📅 2026-04-20 \
 Notable Channels: `#general`, `#platform-errors`, `#platform-bugs`, `#suggestions`, `#support`, `#solution-discussions` \
 Language: Romanian \ <br>
 
@@ -390,13 +390,13 @@ Language: English \ <br>
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/tasmota.webp">
 
-[**Tasmota**](https://discord.com/invite/Ks2Kzd4) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](origin/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://tasmota.github.io/docs/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/arendst/tasmota) ⭐ 24,315 | 🐛 8 | 🌐 C | 📅 2026-05-03 \
+[**Tasmota**](https://discord.com/invite/Ks2Kzd4) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](origin/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://tasmota.github.io/docs/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/arendst/tasmota) ⭐ 24,317 | 🐛 9 | 🌐 C | 📅 2026-05-04 \
 Notable Channels: `#general`, `#issues`, `#3d-prints-and-cnc`, `#projects-gallery`, `#deals-and-promotions` \
 Language: English \ <br>
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/zigbee2mqtt.webp">
 
-[**zigbee2mqtt**](https://discord.com/invite/NyseBeK) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](origin/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.zigbee2mqtt.io/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/koenkk/zigbee2mqtt) ⭐ 15,093 | 🐛 550 | 🌐 TypeScript | 📅 2026-05-02 \
+[**zigbee2mqtt**](https://discord.com/invite/NyseBeK) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](origin/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.zigbee2mqtt.io/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/koenkk/zigbee2mqtt) ⭐ 15,097 | 🐛 557 | 🌐 TypeScript | 📅 2026-05-04 \
 Notable Channels: `#release-branch`, `#development-branch`, `#installation-hassio`, `#installation-docker`, `#zigbee2mqtt`, `#zigbee-shepherd`, `#documentation`, `#hardware` \
 Language: English
 
@@ -636,7 +636,7 @@ Language: English \ <br>
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/discord_gophers.webp">
 
-[**Discord Gophers**](https://discord.com/invite/PxwHvBS) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/bwmarrin/discordgo) ⭐ 5,902 | 🐛 227 | 🌐 Go | 📅 2026-02-14\
+[**Discord Gophers**](https://discord.com/invite/PxwHvBS) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/bwmarrin/discordgo) ⭐ 5,903 | 🐛 227 | 🌐 Go | 📅 2026-02-14\
 Notable Channels: `#golang`, `#job-market-only`, `#go-art-only`, `#go-news-only`, `#discordgo`, `#disgord`, `#dca`, `#arikawa`\
 Language: English
 
@@ -686,7 +686,7 @@ Language: English, 日本語 \ <br>
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/reasonml.webp">
 
-[**ReasonML**](https://discord.com/invite/reasonml) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](origin/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://reasonml.github.io/en/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/facebook/reason) ⭐ 10,305 | 🐛 188 | 🌐 OCaml | 📅 2026-04-01 \
+[**ReasonML**](https://discord.com/invite/reasonml) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](origin/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://reasonml.github.io/en/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/facebook/reason) ⭐ 10,306 | 🐛 188 | 🌐 OCaml | 📅 2026-04-01 \
 Notable Channels: `#general`, `#reasonconf`, `#native-development`, `#bucklescript`, `#job-openings`, `#react`, `#ocaml`, `#reason-dojo`, `#reason-core-dev`\
 Language: English
 
@@ -774,7 +774,7 @@ Language: English \ <br>
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/microsoft-python.webp">
 
-[**microsoft-python**](https://discord.com/invite/b8YJQPx) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](origin/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://twitter.com/pythonvscode) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/microsoft/vscode-python) ⭐ 4,613 | 🐛 350 | 🌐 TypeScript | 📅 2026-04-27 \
+[**microsoft-python**](https://discord.com/invite/b8YJQPx) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](origin/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://twitter.com/pythonvscode) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/microsoft/vscode-python) ⭐ 4,612 | 🐛 349 | 🌐 TypeScript | 📅 2026-04-27 \
 Notable Channels: `#python-virtual-labs`, `#azure`, `#data-science`, `#iot`, `#postgres`, `#vscode` \
 Language: English \ <br>
 
@@ -796,7 +796,7 @@ Language: English \ <br>
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/kivymd.webp">
 
-[**KivyMD**](https://discord.com/invite/wu3qBST) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](origin/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.youtube.com/channel/UCl72hvzwQ0rXUMBKTsKjRAA) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/HeaTTheatR/KivyMD) ⭐ 2,442 | 🐛 101 | 🌐 Python | 📅 2026-04-09 \
+[**KivyMD**](https://discord.com/invite/wu3qBST) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](origin/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.youtube.com/channel/UCl72hvzwQ0rXUMBKTsKjRAA) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/HeaTTheatR/KivyMD) ⭐ 2,443 | 🐛 101 | 🌐 Python | 📅 2026-04-09 \
 Notable Channels: `#general`, `#support`, `#suggestions-for-improvements`, `#users-gallery`, `#kivymd-studio` \
 Language: English, русский \ <br>
 
@@ -818,7 +818,7 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/rust_programming_language_community_server.webp">
 
-[**Rust Programming Language Community Server**](https://discord.com/invite/aVESxV8) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/ivandardi/RustBot) ⭐ 60 | 🐛 26 | 🌐 Rust | 📅 2026-05-02 \
+[**Rust Programming Language Community Server**](https://discord.com/invite/aVESxV8) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/ivandardi/RustBot) ⭐ 61 | 🐛 26 | 🌐 Rust | 📅 2026-05-02 \
 Notable Channels: `#beginners`, `#code-review`, `#dev-tools`, `#black-magic`, `#macros`, `#async`, `#crypto-and-security`, `#games-and-graphics`, `#lang-dev`, `#net-and-web`, `#os-dev`\
 Language: English
 
@@ -902,7 +902,7 @@ The back-end of web, from single static page to complex web applications; usage 
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/docusaurus.webp">
 
-[**Docusaurus**](https://discord.com/invite/docusaurus) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](origin/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://v2.docusaurus.io/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/facebook/Docusaurus) ⭐ 64,802 | 🐛 385 | 🌐 TypeScript | 📅 2026-05-02 \
+[**Docusaurus**](https://discord.com/invite/docusaurus) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](origin/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://v2.docusaurus.io/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/facebook/Docusaurus) ⭐ 64,807 | 🐛 385 | 🌐 TypeScript | 📅 2026-05-02 \
 Notable Channels: `#docusaurus-users`, `#docusaurus-dev`, `#docusaurus-2-dogfooding`, `#docusaurus-2-dev`, `#docusaurus-zeit`, `#docusaurus-algolia`, `#docusaurus-1-to-2-migration` \
 Language: English
 
@@ -914,7 +914,7 @@ Language: English, français, Deutsch, português, pусский, español
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/fastapi.webp">
 
-[**FastAPI**](https://discord.com/invite/VQjSZaeJmf) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](origin/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://fastapi.tiangolo.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/tiangolo/fastapi) ⭐ 97,860 | 🐛 186 | 🌐 Python | 📅 2026-05-03 \
+[**FastAPI**](https://discord.com/invite/VQjSZaeJmf) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](origin/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://fastapi.tiangolo.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/tiangolo/fastapi) ⭐ 97,894 | 🐛 185 | 🌐 Python | 📅 2026-05-04 \
 Notable Channels: `#discussion`, `#documentation`, `#advanced-questions`, `#articles-videos-podcasts`, `#showcase` \
 Language: English, español, 中文, русский, português, italiano, Türkçe, Українська \ <br>
 
@@ -932,7 +932,7 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/svelte.webp">
 
-[**Svelte**](https://discord.gg/yy75DKs) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](origin/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://svelte.dev/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/sveltejs/svelte) ⭐ 86,463 | 🐛 998 | 🌐 JavaScript | 📅 2026-05-01 \
+[**Svelte**](https://discord.gg/yy75DKs) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](origin/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://svelte.dev/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/sveltejs/svelte) ⭐ 86,470 | 🐛 999 | 🌐 JavaScript | 📅 2026-05-01 \
 Notable Channels: `#svelte`, `#support`, `#sapper`, `#examples`, `#updates`, `#meetups`, `#future`, `#showcase`, `#nativedev`, `#internals`, `#gl`, `#jobs`, `#language-tools`, `#sveltesocietyday2020` \
 Language: English
 
@@ -944,7 +944,7 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/vapor.webp">
 
-[**VAPOR**](https://discord.com/invite/vapor) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](origin/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://vapor.codes/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/vapor/vapor) ⭐ 26,049 | 🐛 115 | 🌐 Swift | 📅 2026-04-20 \
+[**VAPOR**](https://discord.com/invite/vapor) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](origin/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://vapor.codes/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/vapor/vapor) ⭐ 26,052 | 🐛 115 | 🌐 Swift | 📅 2026-04-20 \
 Notable Channels: `#vapor`, `#leaf`, `#fluent`, `#auth`, `#async`, `#security`, `#meetups`, `#showcase`, `#today-i-learned`, `#apple-events`, `#deployment`, `#red`, `#cloud`, `#aws`, `swift`, **[`so much more`](origin/badges.md#so-much-more)** \
 Language: English, čeština, español, русский, Deutsch, 中文频道, Nederlands, 日本語, français, italiano, українська, 한국어
 
@@ -1028,7 +1028,7 @@ Language: English, Deutsch, français, español, 日本語, português, русс
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/quasar_framework.webp">
 
-[**Quasar Framework**](https://discord.com/invite/5TDhbDg) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](origin/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://quasar.dev/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/quasarframework/quasar) ⭐ 27,132 | 🐛 685 | 🌐 JavaScript | 📅 2026-05-01 \
+[**Quasar Framework**](https://discord.com/invite/5TDhbDg) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](origin/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://quasar.dev/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/quasarframework/quasar) ⭐ 27,133 | 🐛 685 | 🌐 JavaScript | 📅 2026-05-04 \
 Notable Channels: `#i-made-this`, `#ideas`, `#jobs`, `#conferences`, `#upgrading`, `#app-extensions`, `#components`, `#cli`, `#spa`, `#ssr`, `#pwa`, `#umd`, `#cordova`, **[`so much more`](origin/badges.md#so-much-more)** \
 Language: English, Deutsch, اَلْعَرَبِيَّةُ‎, français, Türkçe, español, 日本語, dansk, 한국어, português, polski, русский
 
@@ -1088,7 +1088,7 @@ Language: English \ <br>
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/solidjs.webp">
 
-[**SolidJS**](https://discord.com/invite/solidjs) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](origin/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://solidjs.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/ryansolid/solid) ⭐ 35,477 | 🐛 59 | 🌐 TypeScript | 📅 2026-04-30 \
+[**SolidJS**](https://discord.com/invite/solidjs) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](origin/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://solidjs.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/ryansolid/solid) ⭐ 35,479 | 🐛 61 | 🌐 TypeScript | 📅 2026-05-04 \
 Notable Channels: `#help`, `#reactivity`, `#ssr`, `#tooling`, `#typescript`, `#articles`, `#jobs`, `#showcase` \
 Language: English \ <br>
 
@@ -1138,7 +1138,7 @@ Language: English \ <br>
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/doom_emacs.webp">
 
-[**Doom Emacs**](https://discord.com/invite/v5rdp3kdDu) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](origin/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/hlissner/doom-emacs) ⭐ 22,057 | 🐛 642 | 🌐 Emacs Lisp | 📅 2026-05-04 \
+[**Doom Emacs**](https://discord.com/invite/v5rdp3kdDu) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](origin/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/hlissner/doom-emacs) ⭐ 22,064 | 🐛 643 | 🌐 Emacs Lisp | 📅 2026-05-05 \
 Notable Channels: `#troubleshooting`, `#how-do-i`, `#cli`, `#emacs-lisp`, `#protips`, `#project`, `#org-mode`, `#latex`, `#keyboards`, `#themes`, `#operating-systems`, `#hardware`, `#programming` \
 Language: English
 
@@ -1470,7 +1470,7 @@ Language: English \ <br>
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/hasurahq.webp">
 
-[**HasuraHQ**](https://discord.com/invite/hasura) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](origin/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://hasura.io/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/hasura/graphql-engine) ⭐ 31,967 | 🐛 2,370 | 🌐 TypeScript | 📅 2026-05-01 \
+[**HasuraHQ**](https://discord.com/invite/hasura) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](origin/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://hasura.io/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/hasura/graphql-engine) ⭐ 31,966 | 🐛 2,370 | 🌐 TypeScript | 📅 2026-05-04 \
 Notable Channels: `#graphql-engine`, `#new-to-graphql`, `#contrib`, `#look-what-i-built`, `#preview`, `#3factor-apps`, `#deployment-help` \
 Language: English
 
@@ -1510,7 +1510,7 @@ Language: English \ <br>
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/organizr.webp">
 
-[**Organizr**](https://discord.com/invite/TrNtY7N) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](origin/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://organizr.app/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/causefx/Organizr) ⭐ 5,738 | 🐛 23 | 🌐 PHP | 📅 2026-03-06 \
+[**Organizr**](https://discord.com/invite/TrNtY7N) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](origin/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://organizr.app/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/causefx/Organizr) ⭐ 5,739 | 🐛 24 | 🌐 PHP | 📅 2026-03-06 \
 Notable Channels: `#general`, `#customization-theming`, `#groups`, `#organizr-support` \
 Language: English \ <br>
 
@@ -1602,7 +1602,7 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/go_ethereum.webp">
 
-[**Go Ethereum**](https://discord.com/invite/nthXNEv) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](origin/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://geth.ethereum.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/ethereum/go-ethereum) ⭐ 51,017 | 🐛 407 | 🌐 Go | 📅 2026-05-02 \
+[**Go Ethereum**](https://discord.com/invite/nthXNEv) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](origin/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://geth.ethereum.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/ethereum/go-ethereum) ⭐ 51,015 | 🐛 411 | 🌐 Go | 📅 2026-05-04 \
 Notable Channels: `#general`, `#light-client`, `#abigen`, `#clef`, `#puppeth`, `#rinkeboy`, `#progpow`, `#firefly`, `#devp2p`, `#mobile` \
 Language: English
 
@@ -1672,7 +1672,7 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/flybywire_simulations.webp">
 
-[**FlyByWire Simulations**](https://discord.com/invite/UjzuHMU) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](origin/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/flybywiresim/a32nx) ⭐ 5,351 | 🐛 811 | 🌐 TypeScript | 📅 2026-05-03 \
+[**FlyByWire Simulations**](https://discord.com/invite/UjzuHMU) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](origin/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/flybywiresim/a32nx) ⭐ 5,351 | 🐛 811 | 🌐 TypeScript | 📅 2026-05-04 \
 Notable Channels: `#help`, `#aviation-chat`, `#hardware-chat`, `#a32nx-chat`, `#a380x-chat`, `#dev-support`, `#atsu-api`, `#lighting`, `#modeling`, `#sound`, `#your-controls` \
 Language: English
 
@@ -1784,7 +1784,7 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/gdevelop.webp">
 
-[**GDevelop**](https://discord.com/invite/rjdYHvj) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](origin/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://gdevelop-app.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/4ian/GDevelop) ⭐ 22,599 | 🐛 581 | 🌐 JavaScript | 📅 2026-05-03 \
+[**GDevelop**](https://discord.com/invite/rjdYHvj) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](origin/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://gdevelop-app.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/4ian/GDevelop) ⭐ 22,623 | 🐛 578 | 🌐 JavaScript | 📅 2026-05-04 \
 Notable Channels: `#wip`, `#art-and-assets`, `#finished-games`, `#game-jam`, `#general`, `#quick-questions`, `#engine-development`, `#javascript`, `#extension`, `#wiki` \
 Language: English, Deutsch, français, español, 日本語, português, русский, italiano
 
@@ -1864,7 +1864,7 @@ Language: English \ <br>
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/raylib.webp">
 
-[**raylib**](https://discord.com/invite/VkzNHUE) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](origin/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.raylib.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/raysan5/raylib) ⭐ 32,748 | 🐛 14 | 🌐 C | 📅 2026-05-02 \
+[**raylib**](https://discord.com/invite/VkzNHUE) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](origin/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.raylib.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/raysan5/raylib) ⭐ 32,762 | 🐛 14 | 🌐 C | 📅 2026-05-02 \
 Notable Channels: `#general`, `#madewithraylib`, `#help`, `#game-design`, `#raspberry-pi`, `#raylibtech`, `#rayfork`, `#raylib`, `#raygui`, `#rres`, `#challenges`, `#raylib-bindings` \
 Language: English
 
@@ -1978,7 +1978,7 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/dvc.webp">
 
-[**Data Version Control**](https://discord.com/invite/dvwXA2N) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](origin/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://dvc.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/iterative/dvc) ⭐ 15,577 | 🐛 169 | 🌐 Python | 📅 2026-04-28 \
+[**Data Version Control**](https://discord.com/invite/dvwXA2N) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](origin/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://dvc.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/iterative/dvc) ⭐ 15,578 | 🐛 171 | 🌐 Python | 📅 2026-04-28 \
 Notable Channels: `#q-and-a`, `#need-help`, `#general`, `#dev-talk`, `#dev-docs` \
 Language: English \ <br>
 
